@@ -1,0 +1,18 @@
+.ql-align-left {
+    text-align: left !important;
+}
+
+.ql-align-center {
+    text-align: center !important;
+}
+
+.ql-align-right {
+    text-align: right !important;
+}
+
+/*
+<p> added to handles personal information that was created without wysiwyg
+ */
+.header__description p {
+    text-align: left;
+}
